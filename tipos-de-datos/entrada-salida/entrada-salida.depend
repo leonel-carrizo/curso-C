@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669809550 source:c:\users\leone\documents\cursosdev\udemy\c-practico\tipos-de-datos\entrada-salida\main.c
+	<stdio.h>
+	<stdlib.h>
+
