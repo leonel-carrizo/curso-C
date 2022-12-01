@@ -40,12 +40,13 @@
 *.x86_64
 *.hex
 
-# Debug files
+# Debug files y code blog
 *.dSYM/
 *.su
 *.idb
 *.pdb
 *.layout
+*.cbp
 
 # Kernel Module Compile Results
 *.mod*
