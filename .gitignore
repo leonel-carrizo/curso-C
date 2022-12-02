@@ -60,4 +60,10 @@ dkms.conf
 # Archivos settings VSC
 *.vscode
 
+#Otros
+*.jpg
+*.png
+*.jpeg
+*.pdf
+
 # End of https://www.toptal.com/developers/gitignore/api/c
